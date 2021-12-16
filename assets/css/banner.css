@@ -1,0 +1,29 @@
+.banner {
+    height: 192px;
+    width: 100%;
+    background-color: rgb(228, 228, 228);
+}
+
+.descript-banner {
+    width: 291px;
+    height: 2.9px;
+
+}
+
+.descript-banner p {
+    font-size: 20px;
+    padding-top: 25px;
+    line-height: 30px;
+    padding-left: 94px;
+}
+
+.img-banner {
+    float: right;
+}
+
+img {
+    width: 180px;
+    /* height: 120px; */
+    padding-right: 86px;
+    padding-top: 22px;
+}
